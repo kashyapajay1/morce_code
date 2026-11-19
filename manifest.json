@@ -1,0 +1,21 @@
+{
+  "name": "Morse Academy",
+  "short_name": "MorseAcademy",
+  "description": "Learn Morse code progressively with audio, games, and real-time practice.",
+  "start_url": "./",
+  "display": "standalone",
+  "theme_color": "#0a0e17",
+  "background_color": "#0a0e17",
+  "icons": [
+    {
+      "src": "./assets/icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "./assets/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
